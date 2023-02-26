@@ -10,10 +10,16 @@
         <loc>https://www.mgmhs.ml/contacts.html</loc>
     </url>
     <url>
+        <loc>https://www.mgmhs.ml/features.html</loc>
+    </url>
+    <url>
         <loc>https://www.mgmhs.ml/</loc>
     </url>
     <url>
         <loc>https://www.mgmhs.ml/login.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mgmhs.ml/news.html</loc>
     </url>
     <url>
         <loc>https://www.mgmhs.ml/payment.html</loc>
@@ -23,5 +29,8 @@
     </url>
     <url>
         <loc>https://www.mgmhs.ml/pricing.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mgmhs.ml/status.html</loc>
     </url>
 </urlset>
