@@ -1,66 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://www.mgmhs.ml/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/404-main.html</loc>
+        <loc>/404-main.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/chess.html</loc>
+        <loc>/chess.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/contacts.html</loc>
+        <loc>/contacts.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/dashboard.html</loc>
+        <loc>/dashboard.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/departments.html</loc>
+        <loc>/departments.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/external.html</loc>
+        <loc>/enroll.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/failed.html</loc>
+        <loc>/external.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/features.html</loc>
+        <loc>/failed.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/</loc>
+        <loc>/features.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/leaderboards.html</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/login.html</loc>
+        <loc>/leaderboards.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/news.html</loc>
+        <loc>/login.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/pagedown.html</loc>
+        <loc>/news.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/payment.html</loc>
+        <loc>/pagedown.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/paymentprocess.html</loc>
+        <loc>/payment.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/pricing.html</loc>
+        <loc>/paymentprocess.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/project.html</loc>
+        <loc>/pricing.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/quiz.html</loc>
+        <loc>/project.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/status.html</loc>
+        <loc>/quiz.html</loc>
     </url>
     <url>
-        <loc>https://www.mgmhs.ml/work.html</loc>
+        <loc>/status.html</loc>
+    </url>
+    <url>
+        <loc>/work.html</loc>
     </url>
 </urlset>
