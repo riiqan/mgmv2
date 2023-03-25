@@ -64,6 +64,9 @@
         <loc>/status.html</loc>
     </url>
     <url>
+        <loc>/website.html</loc>
+    </url>
+    <url>
         <loc>/work.html</loc>
     </url>
 </urlset>
