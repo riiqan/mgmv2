@@ -1,78 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/404.html</loc>
+        <loc>https://www/mgmhs.ml/404.html</loc>
     </url>
     <url>
-        <loc>/404-main.html</loc>
+        <loc>https://www/mgmhs.ml/404-main.html</loc>
     </url>
     <url>
-        <loc>/chess.html</loc>
+        <loc>https://www/mgmhs.ml/access.html</loc>
     </url>
     <url>
-        <loc>/contacts.html</loc>
+        <loc>https://www/mgmhs.ml/contacts.html</loc>
     </url>
     <url>
-        <loc>/dashboard.html</loc>
+        <loc>https://www/mgmhs.ml/</loc>
     </url>
     <url>
-        <loc>/departments.html</loc>
+        <loc>https://www/mgmhs.ml/leaderboards.html</loc>
     </url>
     <url>
-        <loc>/enroll.html</loc>
+        <loc>https://www/mgmhs.ml/notification.html</loc>
     </url>
     <url>
-        <loc>/external.html</loc>
-    </url>
-    <url>
-        <loc>/failed.html</loc>
-    </url>
-    <url>
-        <loc>/features.html</loc>
-    </url>
-    <url>
-        <loc>/</loc>
-    </url>
-    <url>
-        <loc>/index-dark.html</loc>
-    </url>
-    <url>
-        <loc>/leaderboards.html</loc>
-    </url>
-    <url>
-        <loc>/login.html</loc>
-    </url>
-    <url>
-        <loc>/news.html</loc>
-    </url>
-    <url>
-        <loc>/pagedown.html</loc>
-    </url>
-    <url>
-        <loc>/payment.html</loc>
-    </url>
-    <url>
-        <loc>/paymentprocess.html</loc>
-    </url>
-    <url>
-        <loc>/pricing.html</loc>
-    </url>
-    <url>
-        <loc>/project.html</loc>
-    </url>
-    <url>
-        <loc>/quiz.html</loc>
-    </url>
-    <url>
-        <loc>/status.html</loc>
-    </url>
-    <url>
-        <loc>/support.html</loc>
-    </url>
-    <url>
-        <loc>/website.html</loc>
-    </url>
-    <url>
-        <loc>/work.html</loc>
+        <loc>https://www/mgmhs.ml/status.html</loc>
     </url>
 </urlset>
